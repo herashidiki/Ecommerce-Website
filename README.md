@@ -1,13 +1,13 @@
 
 Here's a sample README.md file for your e-commerce website:
 
-[Your Website Name] 🚀
+[shop me] 🚀
 
 A modern e-commerce platform built with HTML, Tailwind CSS, and React ⚛
 
 About 📚
 
-Welcome to [Your Website Name], a sleek and modern e-commerce platform designed to provide a seamless shopping experience for users. Our platform offers a curated collection of [products/categories] and is built with a focus on user experience and performance.
+Welcome to [shop me], a sleek and modern e-commerce platform designed to provide a seamless shopping experience for users. Our platform offers a curated collection of [products/categories] and is built with a focus on user experience and performance.
 
 Features 🎉
 

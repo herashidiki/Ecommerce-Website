@@ -28,19 +28,6 @@ Getting Started 🚀
 2. Install dependencies: npm install
 3. Start the development server: npm start
 
-Contributing 🤝
+.hope you enjoy this project................
 
 
-Contributions are welcome! If you'd like to contribute to [Your Website Name], please fork the repository and submit a pull request.
-
-License 📝
-
-[Your Website Name] is licensed under the [License Name] license.
-
-Acknowledgments 🙏
-
-- [List any acknowledgments or credits]
-
-I hope this sample README.md file helps you create a beautiful and informative file for your project! 🎉
-
-Feel free to customize it to fit your project's needs and style. 😊
